@@ -1,3 +1,3 @@
 # Student-Management-System
-## Platform: C#, MS Access
+## Platform: C#.NET, MS Access
 <img src="sms.jpg">
